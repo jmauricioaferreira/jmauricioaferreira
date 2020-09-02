@@ -3,7 +3,7 @@
 
 💻 Enthusiastic about web programming <br />
 🎓 Civil Engineer <br />
-📚 Currently studying ReactJS, Javascript, HTML, CSS. <br />
+📚 Currently studying ReactJS, Javascript, HTML, CSS <br />
 
 <h4> 📫 How to reach me: </h4>
 
