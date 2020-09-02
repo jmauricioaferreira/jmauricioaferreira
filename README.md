@@ -1,7 +1,7 @@
 
 <h1>José Mauricio Azevedo Ferreira </h1> <br />
 
-💻 Enthusiastic about web programming <br />
+💻 Enthusiastic about web and mobile programming <br />
 🎓 Civil Engineer <br />
 📚 Currently studying ReactJS, Javascript, HTML, CSS <br />
 
