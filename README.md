@@ -7,7 +7,7 @@
 
 <h4> 📫 How to reach me: </h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-José%20Mauricio%20Azevedo-02aaff?style=flat-square&logo=Linkedin&logoColor=white&link=https:linkedin.com/in/jmauricioaferreira/)](https:linkedin.com/in/jmauricioaferreira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-José%20Mauricio%20Azevedo-02aaff?style=flat-square&logo=Linkedin&logoColor=white&link=https:http://linkedin.com/in/jmauricioaferreira/)](https:http://linkedin.com/in/jmauricioaferreira/) 
 [![Gmail Badge](https://img.shields.io/badge/-jmauricio.a.ferreira@gmail.com-02aaff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmauricio.a.ferreira@gmail.com)](mailto:jmauricio.a.ferreira@gmail.com)
 <br />
 <!--
