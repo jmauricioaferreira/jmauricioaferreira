@@ -1,7 +1,6 @@
 
 <h1>José Mauricio Azevedo Ferreira </h1>
 
-### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-José%20Mauricio%20Azevedo-02aaff?style=flat-square&logo=Linkedin&logoColor=white&link=https:linkedin.com/in/jmauricioaferreira/)](https:www.linkedin.com/in/jmauricioaferreira/) 
 [![Gmail Badge](https://img.shields.io/badge/-jmauricio.a.ferreira@gmail.com-02aaff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmauricio.a.ferreira@gmail.com)](mailto:jmauricio.a.ferreira@gmail.com)
 
