@@ -2,7 +2,7 @@
 <h1>José Mauricio Azevedo Ferreira </h1> <br />
 
 💻 Enthusiastic about web and mobile programming <br />
-🎓 Civil engineer <br />
+🎓 Engineer <br />
 📚 Currently studying HTML, CSS, Javascript, ReactJS<br />
 
 <h4> 📫 How to reach me: </h4>
