@@ -3,7 +3,7 @@
 
 💻 Enthusiastic about web and mobile programming <br />
 🎓 Engineer <br />
-📚 HTML, CSS, Javascript, ReactJS<br />
+📚 HTML, CSS, Javascript, ReactJS VueJS<br />
 
 <h4> 📫 How to reach me: </h4>
 
