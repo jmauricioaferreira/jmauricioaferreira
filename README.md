@@ -2,7 +2,8 @@
 <h1>José Mauricio Azevedo Ferreira </h1> <br />
 
 ### Hello Stranger 👋
-[![Linkedin Badge](https://img.shields.io/badge/-José%20Mauricio%20Azevedo-02aaff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmauricioaferreira/)](https://www.linkedin.com/in/jmauricioaferreira/) 
+![Coffee](./coffee-wink.gif 'Coffee')
+
 
 💻 Enthusiastic about front-end web and mobile programming <br />
 🎓 Engineer <br />
