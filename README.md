@@ -1,6 +1,8 @@
 
 <h1>José Mauricio Azevedo Ferreira </h1> <br />
 
+### Hello Stranger 👋
+
 💻 Enthusiastic about web and mobile programming <br />
 🎓 Engineer <br />
 📚 HTML, CSS, Javascript (Vanilla, ReactJS, VueJS)<br />
