@@ -2,12 +2,11 @@
 <h1>José Mauricio Azevedo Ferreira </h1> <br />
 
 ### Hello Stranger 👋
-![Coffee](./coffee-wink.gif 'Coffee')
 
 
 💻 Enthusiastic about front-end web and mobile programming <br />
 🎓 Engineer <br />
-📚 HTML, CSS, Javascript (Vanilla, ReactJS, VueJS)<br />
+📚 HTML, CSS, Javascript (Vanilla, ReactJS)<br />
 
 <h4> 📫 How to reach me: </h4>
 
