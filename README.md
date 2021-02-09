@@ -5,7 +5,7 @@
 
 ### A few thing things about me:
 
- I have Graduated 🎓 on Civil Engineering, however, I found my passion in front-end web and mobile programming <br />
+🎓 I have Graduated  on Civil Engineering, however, I found my passion on front-end web and mobile programming <br />
 📚 I'm a currently studying HTML, CSS, Javascript (Vanilla, ReactJS)<br />
 
 <h4> 📫 How to reach me: </h4>
