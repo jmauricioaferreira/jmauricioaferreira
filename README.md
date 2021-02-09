@@ -3,7 +3,7 @@
 
 ### Hello Stranger 👋
 
-💻 Enthusiastic about web and mobile programming <br />
+💻 Enthusiastic about front-end web and mobile programming <br />
 🎓 Engineer <br />
 📚 HTML, CSS, Javascript (Vanilla, ReactJS, VueJS)<br />
 
