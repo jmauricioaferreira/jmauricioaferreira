@@ -1,12 +1,13 @@
 
 <h1>José Mauricio Azevedo Ferreira </h1> <br />
 
-### Hello Stranger 👋
+## Hello Stranger 👋
 
+### A few thing things about me:
 
-💻 Enthusiastic about front-end web and mobile programming <br />
-🎓 Engineer <br />
-📚 HTML, CSS, Javascript (Vanilla, ReactJS)<br />
+💻 I'm enthusiastic about front-end web and mobile programming <br />
+🎓 Graduated in Civil Engineering <br />
+📚 I'm a currently studying HTML, CSS, Javascript (Vanilla, ReactJS)<br />
 
 <h4> 📫 How to reach me: </h4>
 
