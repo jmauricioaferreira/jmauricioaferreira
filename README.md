@@ -3,7 +3,7 @@
 
 ## Hello Stranger 👋
 
-### A few thing things about me:
+### A few things about me:
 
 🎓 I have Graduated  on Civil Engineering, however, I found my passion on front-end web and mobile programming <br />
 📚 I'm a currently studying HTML, CSS, Javascript (Vanilla, ReactJS)<br />
