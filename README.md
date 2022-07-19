@@ -5,7 +5,7 @@
 
 ### A few things about me:
 
-🎓 Graduated on Civil Engineering; 
+🎓 Graduated on Civil Engineering;  <br />
 ❤️ Found my passion in front-end web coding <br />
 📚 I'm a currently studying and wirjubg with HTML, CSS, Javascript (Vanilla, ReactJS)<br />
 
