@@ -7,7 +7,7 @@
 
 🎓 Graduated on Civil Engineering;  <br />
 ❤️ Found my passion in front-end web coding <br />
-📚 I'm a currently studying and wirjubg with HTML, CSS, Javascript (Vanilla, ReactJS)<br />
+📚 I'm a currently studying and working with HTML, CSS, Javascript (Vanilla, ReactJS)<br />
 
 <h4> 📫 How to reach me: </h4>
 
