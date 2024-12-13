@@ -3,18 +3,20 @@
 
 ## Hello Stranger 👋
 
-### A few things about me:
+# José Mauricio Azevedo Ferreira 👋
 
-🎓 Graduated on Civil Engineering;  <br />
-❤️ Found my passion in front-end web coding <br />
-📚 I'm a currently studying and working with HTML, CSS, Javascript (Vanilla, ReactJS)<br />
+## Welcome! 🚀
 
-<h4> 📫 How to reach me: </h4>
+### About Me:
+- 🎓 Former Civil Engineer turned passionate Front-End Developer.  
+- 💻 Building seamless user experiences with React, TypeScript, and Tailwind CSS.  
+- 🔍 Always learning: from efficient data handling to advanced UI components.  
 
-[![Linkedin Badge](https://img.shields.io/badge/-José%20Mauricio%20Azevedo-02aaff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmauricioaferreira/)](https://www.linkedin.com/in/jmauricioaferreira/) 
+### Current Focus:
+- 🌟 Developing clean and performant web applications.  
+- 📖 Exploring state management with Zustand and internationalization with Next-Intl.  
+- 🎯 Advocating for great design and functionality in every line of code.
+
+### Let's Connect:
+[![LinkedIn Badge](https://img.shields.io/badge/-José%20Mauricio%20Azevedo-02aaff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmauricioaferreira/)](https://www.linkedin.com/in/jmauricioaferreira/) 
 [![Gmail Badge](https://img.shields.io/badge/-jmauricio.a.ferreira@gmail.com-02aaff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmauricio.a.ferreira@gmail.com)](mailto:jmauricio.a.ferreira@gmail.com)
-
-
-<!--
-**jmauricioaferreira/jmauricioaferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
