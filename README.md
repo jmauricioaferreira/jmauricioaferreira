@@ -1,6 +1,4 @@
 
-<h1>José Mauricio Azevedo Ferreira </h1> <br />
-
 ## Hello Stranger 👋
 
 # José Mauricio Azevedo Ferreira 👋
